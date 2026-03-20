@@ -5,11 +5,11 @@ super("Inicio");
 }
 
 preload(){
-    this.load.image("fondo","/img/Fonde.png");
-    this.load.image("bird1","/img/Kiwi1.png");
-    this.load.image("bird2","/img/Kiwi2.png");
-    this.load.image("bird3","/img/Kiwi3.png");
-    this.load.image("pipe","/img/Pipe.png");
+    this.load.image("fondo","Fonde.png");
+    this.load.image("bird1","Kiwi1.png");
+    this.load.image("bird2","Kiwi2.png");
+    this.load.image("bird3","Kiwi3.png");
+    this.load.image("pipe","Pipe.png");
 }
 
 create(){
